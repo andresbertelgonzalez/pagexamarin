@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Este es un ejemplo de el uso Git bujajajajaja
 es mentira 
+=======
+Este es un ejemplo de el uso Git bujajajajaja.
+
+eso es mentira 
+>>>>>>> feature/rama-ederzapa
