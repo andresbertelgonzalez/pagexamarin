@@ -1,0 +1,4 @@
+se descarga el pokemon de una pagina, pero también se descarga un emulador para pokemon
+
+
+ 
